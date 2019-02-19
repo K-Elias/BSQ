@@ -1,13 +1,3 @@
-/*
-** small.c for small in /home/abouss_e/rendu/Prog_C/truebsq/CPE_2015_BSQ
-**
-** Made by elias aboussair
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Sun May 22 22:10:04 2016 elias aboussair
-** Last update Thu Aug 11 20:05:14 2016 Elias ABOUSSAIR
-*/
-
 #include "bsq.h"
 
 int		*final_cube(int **tab, char *buf)
