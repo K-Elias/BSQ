@@ -1,13 +1,3 @@
-/*
-** main.c for main in /home/abouss_e/rendu/Cprog/CPE_2015_BSQ/new_bsq
-**
-** Made by Elias ABOUSSAIR
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Mon Aug  8 12:35:55 2016 Elias ABOUSSAIR
-** Last update Sun Feb 11 19:09:34 2018 Kim
-*/
-
 #include "bsq.h"
 
 int	main(int ac, char **av)
