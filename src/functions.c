@@ -1,13 +1,3 @@
-/*
-** functions.c for function in /home/abouss_e/rendu/Cprog/CPE_2015_BSQ/new_bsq
-**
-** Made by Elias ABOUSSAIR
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Mon Aug  8 13:01:16 2016 Elias ABOUSSAIR
-** Last update Tue Aug  9 22:41:15 2016 Elias ABOUSSAIR
-*/
-
 #include "bsq.h"
 
 void	my_putchar(char c)
