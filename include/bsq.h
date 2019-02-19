@@ -1,13 +1,3 @@
-/*
-** bsq.h for bsq in /home/abouss_e/rendu/Cprog/CPE_2015_BSQ/new_bsq
-**
-** Made by Elias ABOUSSAIR
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Mon Aug  8 12:57:00 2016 Elias ABOUSSAIR
-** Last update Thu Aug 11 20:55:36 2016 Elias ABOUSSAIR
-*/
-
 #ifndef BSQ_H_
 # define BSQ_H_
 
