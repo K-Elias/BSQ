@@ -1,13 +1,3 @@
-/*
-** bsq.c for bsq to bsq in /home/abouss_e/rendu/Prog_C/CPE_2015_BSQ
-**
-** Made by elias aboussair
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Wed May 18 05:38:25 2016 elias aboussair
-** Last update Thu Aug 11 20:17:55 2016 Elias ABOUSSAIR
-*/
-
 #include "bsq.h"
 
 int		big(char *buf)
