@@ -1,13 +1,3 @@
-##
-## Makefile for make in /home/abouss_e/rendu/Cprog/CPE_2015_BSQ/new_bsq
-##
-## Made by Elias ABOUSSAIR
-## Login   <abouss_e@epitech.net>
-##
-## Started on  Mon Aug  8 13:05:33 2016 Elias ABOUSSAIR
-## Last update Thu Aug 11 20:35:38 2016 Elias ABOUSSAIR
-##
-
 CC	= gcc
 
 RM	= rm -rf
