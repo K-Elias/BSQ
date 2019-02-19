@@ -1,13 +1,3 @@
-/*
-** compt.c for compt in /home/abouss_e/rendu/Cprog/CPE_2015_BSQ/new_bsq
-**
-** Made by Elias ABOUSSAIR
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Mon Aug  8 12:44:53 2016 Elias ABOUSSAIR
-** Last update Thu Aug 11 21:12:59 2016 Elias ABOUSSAIR
-*/
-
 #include "bsq.h"
 
 int	nbr_line(char *str)
