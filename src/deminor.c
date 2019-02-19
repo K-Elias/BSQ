@@ -1,13 +1,3 @@
-/*
-** number_cube.c for deminor in /home/abouss_e/rendu/Cprog/CPE_2015_BSQ/new_bsq
-**
-** Made by Elias ABOUSSAIR
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Mon Aug  8 17:17:07 2016 Elias ABOUSSAIR
-** Last update Thu Aug 11 12:31:01 2016 Elias ABOUSSAIR
-*/
-
 #include "bsq.h"
 
 int	**put_zero(char *buf)
