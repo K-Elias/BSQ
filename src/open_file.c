@@ -1,15 +1,3 @@
-/*
-** open_file.c for openfile in /home/abouss_e/rendu/Cprog/CPE_2015_BSQ/new_bsq
-**
-** Made by Elias ABOUSSAIR
-** Login   <abouss_e@epitech.net>
-**
-** Started on  Mon Aug  8 12:38:06 2016 Elias ABOUSSAIR
-** Last update Thu Aug 11 18:58:45 2016 Elias ABOUSSAIR
-*/
-
-#include "bsq.h"
-
 int	verif_tab(char *buf)
 {
   int	i;
